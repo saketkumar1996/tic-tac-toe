@@ -1,6 +1,6 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+Want to Play TIC-TAC-TOE  [get started](https://tic-tac-toe-git-master-saketkumar1996.vercel.app/).
 
 ## Development server
 
